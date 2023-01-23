@@ -1,0 +1,19 @@
+html, body {
+	background-color: #313030;
+}
+.tagcloud {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	margin-left: 35%;
+	margin-top: 10%;
+	color: #ffffff;
+}
+.tagcloud--item:hover {
+	color: #0d9e4e;
+}
+.tagcloud--item {
+  padding: 2px 4px;
+  background-color: transparent;
+  cursor: pointer;
+}
